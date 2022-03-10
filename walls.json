@@ -1,0 +1,19 @@
+[{
+		"name": "Shapes",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/1.png",
+		"dimensions": "1080x2400",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+	{
+		"name": "Shapes 2",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/2.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/2.png",
+		"dimensions": "1080x2400",
+		"copyright": "Free (do whatever you want)",
+		"collections": "new year, new"
+	}
+]
