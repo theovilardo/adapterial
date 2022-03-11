@@ -5,7 +5,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/1.png",
 		"dimensions": "1080x2400",
 		"copyright": "Licensed",
-		"collections": "landscapes"
+		"collections": "wallpapers"
 	},
 	{
 		"name": "Shapes 2",
@@ -14,7 +14,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/2.png",
 		"dimensions": "1080x2400",
 		"copyright": "Licensed",
-		"collections": "new year, new"
+		"collections": "wallpapers"
 	},
  	{
 		"name": "Shapes 3",
@@ -23,6 +23,15 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/3.png",
 		"dimensions": "1080x2400",
 		"copyright": "Licensed",
-		"collections": "new year, new"
+		"collections": "wallpapers"
+	},
+	{
+		"name": "Pill & Cells",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pill%26cells.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pill%26cells.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"collections": "wallpapers"
 	}
 ]
