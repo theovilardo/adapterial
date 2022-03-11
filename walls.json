@@ -4,7 +4,7 @@
 		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/1.png",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/1.png",
 		"dimensions": "1080x2400",
-		"copyright": "Unknown",
+		"copyright": "Licensed",
 		"collections": "landscapes"
 	},
 	{
@@ -13,7 +13,16 @@
 		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/2.png",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/2.png",
 		"dimensions": "1080x2400",
-		"copyright": "Free (do whatever you want)",
+		"copyright": "Licensed",
+		"collections": "new year, new"
+	},
+ 	{
+		"name": "Shapes 3",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/3.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/3.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
 		"collections": "new year, new"
 	}
 ]
