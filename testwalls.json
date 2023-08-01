@@ -1,10 +1,11 @@
 [{
-		"name": "String Theory 7",
+		"name": "Shapes",
 		"author": "TheVeloper",
-		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st7.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st7.png",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/1.png",
 		"dimensions": "1080x2400",
 		"copyright": "Licensed",
+		"category": "Material",
 		"collections": "wallpapers"
 	},
 	{
@@ -14,6 +15,97 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/2.png",
 		"dimensions": "1080x2400",
 		"copyright": "Licensed",
+		"category": "Material",
+		"collections": "wallpapers"
+	},
+ 	{
+		"name": "Shapes 3",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/3.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/3.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Material",
+		"collections": "wallpapers"
+	},
+        {
+		"name": "Shapes 4",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/4.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/4.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Material",
+		"collections": "wallpapers"
+	},
+  	{
+		"name": "String Theory 1",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st1.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Abstract",
+		"collections": "wallpapers"
+	},
+ 	{
+		"name": "String Theory 2",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st2.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st2.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Abstract",
+		"collections": "wallpapers"
+	},
+ 	{
+		"name": "String Theory 3",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st3.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st3.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Abstract",
+		"collections": "wallpapers"
+	},
+ 	{
+		"name": "String Theory 4",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st4.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st4.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Abstract",
+		"collections": "wallpapers"
+	},
+ 	{
+		"name": "String Theory 5",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st5.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st5.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Abstract",
+		"collections": "wallpapers"
+	},
+ 	{
+		"name": "String Theory 6",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st6.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st6.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Abstract",
+		"collections": "wallpapers"
+	},
+ 	{
+		"name": "String Theory 7",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st7.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st7.png",
+		"dimensions": "1080x2400",
+		"copyright": "Licensed",
+		"category": "Abstract",
 		"collections": "wallpapers"
 	},
  	{
@@ -23,6 +115,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/st8.png",
 		"dimensions": "1080x2400",
 		"copyright": "Licensed",
+		"category": "Abstract",
 		"collections": "wallpapers"
 	},
 	{
@@ -32,6 +125,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pill%26cells.png",
 		"dimensions": "1080x2400",
 		"copyright": "Licensed",
+		"category": "Flat",
 		"collections": "wallpapers"
 	}
 ]
