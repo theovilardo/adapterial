@@ -88,6 +88,16 @@
 		"category": "Abstract",
 		"collections": "wallpapers"
 	},
+	{
+		"name": "The Dark Knight",
+		"author": "TheVeloper",
+		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/DreamShaper_v7_batman_the_dark_knight_1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/adapterial/main/DreamShaper_v7_batman_the_dark_knight_1.jpg",
+		"dimensions": "1024x1024",
+		"copyright": "Licensed",
+		"category": "Heroes",
+		"collections": "wallpapers"
+	},
  	{
 		"name": "String Theory 6",
 		"author": "TheVeloper",
