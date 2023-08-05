@@ -32,6 +32,17 @@
 		"collections": "wallpapers"
 	},
 	{
+		"name": "Sixtina",
+		"author": "Unsplash",
+		"url": "https://github.com/theovilardo/adapterial/blob/main/guillaume-techer-dRrHudQwhUA-unsplash.jpg?raw=true",
+		"thumbnail": "https://github.com/theovilardo/adapterial/blob/main/guillaume-techer-dRrHudQwhUA-unsplash.jpg?raw=true",
+		"dimensions": "6000x4000",
+		"copyright": "Licensed",
+		"category": "Photography",
+		"description": "The Sixtin Chapell",
+		"collections": "wallpapers"
+	},
+	{
 		"name": "Bigger Fungus Shape",
 		"author": "TheVeloper",
 		"url": "https://raw.githubusercontent.com/theovilardo/adapterial/main/biggerfungusship.png",
