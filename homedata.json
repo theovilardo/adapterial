@@ -1,0 +1,25 @@
+[{
+    "id": "First Post",
+    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/4686060.jpg",
+    "title": "First Post!",
+    "description": "Just the first post for testing the app"
+    },
+    {
+    "id": "Second Post",
+    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/How-to-Fix-Unresponsive-Widgets-on-Android.png",
+    "title": "Second post!",
+    "description": "Second post! on this one i'm promoting an app"
+    },
+    {
+    "id": "Third Post",
+    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/how-to-customize-home-screen-on-samsung-galaxy-phone-_1_.png",
+    "title": "Second post!",
+    "description": "Second post! on this one i'm promoting an app"
+    },
+    {
+    "id": "Fourth Post",
+    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/iPhone-Android-home-screen.png",
+    "title": "Second post!",
+    "description": "Second post! on this one i'm promoting an app"
+    }
+]
