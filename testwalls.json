@@ -7,6 +7,7 @@
 		"copyright": "Licensed",
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
+		"pro": "true",
 		"collections": "wallpapers"
 	},
 	{
@@ -18,6 +19,7 @@
 		"copyright": "Licensed",
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
 	{
@@ -29,6 +31,7 @@
 		"copyright": "Licensed",
 		"category": "Space",
 		"description": "Fungus shaped spaceship",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
 	{
@@ -40,6 +43,7 @@
 		"copyright": "Licensed",
 		"category": "Photography",
 		"description": "The Sixtin Chapell",
+		"pro": "true",
 		"collections": "wallpapers"
 	},
 	{
@@ -51,6 +55,7 @@
 		"copyright": "Licensed",
 		"category": "Space",
 		"description": "Bigger fungus shaped spaceship",
+		"pro": "true",
 		"collections": "wallpapers"
 	},
  	{
@@ -62,6 +67,7 @@
 		"copyright": "Licensed",
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
+		"pro": "true",
 		"collections": "wallpapers"
 	},
         {
@@ -73,6 +79,7 @@
 		"copyright": "Licensed",
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
   	{
@@ -84,6 +91,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
  	{
@@ -95,6 +103,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
  	{
@@ -106,6 +115,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
  	{
@@ -117,6 +127,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
  	{
@@ -128,6 +139,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
 	{
@@ -139,6 +151,7 @@
 		"copyright": "Licensed",
 		"category": "Heroes",
 		"description": "Batman.",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
  	{
@@ -150,6 +163,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "true",
 		"collections": "wallpapers"
 	},
  	{
@@ -161,6 +175,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "false",
 		"collections": "wallpapers"
 	},
  	{
@@ -172,6 +187,7 @@
 		"copyright": "Licensed",
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
+		"pro": "true",
 		"collections": "wallpapers"
 	},
 	{
@@ -183,6 +199,7 @@
 		"copyright": "Licensed",
 		"category": "Flat",
 		"description": "Medicine pill making effect on cells",
+		"pro": "false",
 		"collections": "wallpapers"
 	}
 ]
