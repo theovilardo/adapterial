@@ -8,7 +8,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "true",
-		"collections": "wallpapers"
+		"collections": "Shapes"
 	},
 	{
 		"name": "Shapes 2",
@@ -20,7 +20,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "Shapes"
 	},
 	{
 		"name": "Fungus Shape",
@@ -68,7 +68,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "true",
-		"collections": "wallpapers"
+		"collections": "Shapes"
 	},
         {
 		"name": "Shapes 4",
@@ -80,7 +80,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "Shapes"
 	},
   	{
 		"name": "String Theory 1",
@@ -152,7 +152,7 @@
 		"category": "Heroes",
 		"description": "Batman.",
 		"pro": "true",
-		"collections": "wallpapers"
+		"collections": "Batman"
 	},
  	{
 		"name": "String Theory 6",
