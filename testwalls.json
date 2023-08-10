@@ -32,7 +32,7 @@
 		"category": "Space",
 		"description": "Fungus shaped spaceship",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "AI Generated"
 	},
 	{
 		"name": "Sixtina",
@@ -44,7 +44,7 @@
 		"category": "Photography",
 		"description": "The Sixtin Chapell",
 		"pro": "true",
-		"collections": "wallpapers"
+		"collections": "AI Generated"
 	},
 	{
 		"name": "Bigger Fungus Shape With a lot of Rocks",
@@ -56,7 +56,7 @@
 		"category": "Space",
 		"description": "Bigger fungus shaped spaceship with a lot of rocks",
 		"pro": "true",
-		"collections": "wallpapers"
+		"collections": "AI Generated"
 	},
  	{
 		"name": "Shapes 3",
@@ -104,7 +104,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "String Theory"
 	},
  	{
 		"name": "String Theory 3",
@@ -116,7 +116,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "String Theory"
 	},
  	{
 		"name": "String Theory 4",
@@ -128,7 +128,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "String Theory"
 	},
  	{
 		"name": "String Theory 5",
@@ -140,7 +140,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "String Theory"
 	},
 	{
 		"name": "The Dark Knight",
@@ -164,7 +164,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "String Theory"
 	},
  	{
 		"name": "String Theory 7",
@@ -176,7 +176,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "String Theory"
 	},
  	{
 		"name": "String Theory 8",
@@ -188,7 +188,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "true",
-		"collections": "wallpapers"
+		"collections": "String Theory"
 	},
 	{
 		"name": "Pill & Cells",
@@ -200,6 +200,6 @@
 		"category": "Flat",
 		"description": "Medicine pill making effect on cells",
 		"pro": "false",
-		"collections": "wallpapers"
+		"collections": "Flat"
 	}
 ]
