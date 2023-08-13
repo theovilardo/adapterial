@@ -8,6 +8,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "true",
+		"tags": ["Shapes", "Material", "Blue", "Yellow", "Purple", "Light Blue"],
 		"collections": "Shapes"
 	},
 	{
@@ -20,6 +21,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "false",
+		"tags": ["Shapes 2", "Material", "Blue", "Yellow", "Purple", "Light Blue"],
 		"collections": "Shapes"
 	},
 	{
@@ -32,6 +34,7 @@
 		"category": "Space",
 		"description": "Fungus shaped spaceship",
 		"pro": "false",
+		"tags": ["Fungus Shape", "Space", "Dawn", "Alien", "Ship", "Desert"],
 		"collections": "AI Generated"
 	},
 	{
@@ -44,6 +47,7 @@
 		"category": "Photography",
 		"description": "The Sixtin Chapell",
 		"pro": "true",
+		"tags": ["Sixtina", "Photography", "Chapell", "Antique", "Catholic"],
 		"collections": "AI Generated"
 	},
 	{
@@ -56,6 +60,7 @@
 		"category": "Space",
 		"description": "Bigger fungus shaped spaceship with a lot of rocks",
 		"pro": "true",
+		"tags": ["Bigger Fungus Shape With a lot of Rocks", "Space", "Dawn", "Alien", "Ship", "Desert"],
 		"collections": "AI Generated"
 	},
  	{
@@ -68,6 +73,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "true",
+		"tags": ["Shapes 3", "Material", "Blue", "Light Blue", "Dark Blue", "White"],
 		"collections": "Shapes"
 	},
         {
@@ -80,6 +86,7 @@
 		"category": "Material",
 		"description": "A blue and black background with white circles, a screenshot by Constant, featured on dribble, purism, behance hd, depth of field, pixel perfect",
 		"pro": "false",
+		"tags": ["Shapes 4", "Material", "Blue", "Yellow", "Purple", "Light Blue"],
 		"collections": "Shapes"
 	},
   	{
@@ -92,6 +99,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
+		"tags": ["String Theory 1", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
  	{
@@ -104,6 +112,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
+		"tags": ["String Theory 2", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
  	{
@@ -116,6 +125,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
+		"tags": ["String Theory 3", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
  	{
@@ -128,6 +138,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
+		"tags": ["String Theory 4", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
  	{
@@ -140,6 +151,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
+		"tags": ["String Theory 5", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
 	{
@@ -152,6 +164,7 @@
 		"category": "Heroes",
 		"description": "Batman.",
 		"pro": "true",
+		"tags": ["The Dark Knight", "Heroes", "Super", "Batman", "Vengance", "Bruce Wayne"],
 		"collections": "Batman"
 	},
  	{
@@ -164,6 +177,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
+		"tags": ["String Theory 6", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
  	{
@@ -176,6 +190,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "false",
+		"tags": ["String Theory 7", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
  	{
@@ -188,6 +203,7 @@
 		"category": "Abstract",
 		"description": "Representation of mass in the String Theory",
 		"pro": "true",
+		"tags": ["String Theory 8", "Abstract", "Subatomic", "Physics"],
 		"collections": "String Theory"
 	},
 	{
@@ -200,6 +216,7 @@
 		"category": "Flat",
 		"description": "Medicine pill making effect on cells",
 		"pro": "false",
+		"tags": ["Pill & Cells", "Flat", "Bio", "Medicine", "Microscopic", "Gradient"],
 		"collections": "Flat"
 	}
 ]
