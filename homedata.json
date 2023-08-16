@@ -39,8 +39,13 @@
       },
       {
         "type": "wallpaper",
-        "name": "Wallpaper X",
-        "url": "https://url-to-wallpaper-x"
+        "name": "Wallpaper A",
+        "url": "https://url-to-wallpaper-a"
+      },
+      {
+        "type": "kustom",
+        "name": "Kustom Pack A",
+        "url": "https://url-to-icons-a"
       }
     ]
     },
