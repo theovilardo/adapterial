@@ -1,7 +1,7 @@
 [{
     "id": "First Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/4686060.jpg",
-    "title": "First Post!",
+    "title": "MonoChrome",
     "description": "Just the first post for testing the app",
     "setupElements": [
       {
@@ -11,20 +11,25 @@
       },
       {
         "type": "widget",
-        "name": "Widget A",
+        "name": "Widget X",
         "url": "https://url-to-widget-a"
       },
       {
         "type": "wallpaper",
         "name": "Wallpaper X",
         "url": "https://url-to-wallpaper-x"
+      },
+      {
+        "type": "iconpack",
+        "name": "Icons X",
+        "url": "https://url-to-icons-x"
       }
     ]
     },
     {
     "id": "Second Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/How-to-Fix-Unresponsive-Widgets-on-Android.png",
-    "title": "Second post!",
+    "title": "Blue Label Basile",
     "description": "Second post! on this one i'm promoting an app",
     "setupElements": [
       {
@@ -42,7 +47,7 @@
     {
     "id": "Third Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/how-to-customize-home-screen-on-samsung-galaxy-phone-_1_.png",
-    "title": "Second post!",
+    "title": "IDK Bro",
     "description": "Second post! on this one i'm promoting an app",
     "setupElements": [
       {
@@ -52,26 +57,36 @@
       },
       {
         "type": "wallpaper",
-        "name": "Wallpaper X",
-        "url": "https://url-to-wallpaper-x"
+        "name": "Wallpaper A",
+        "url": "https://url-to-wallpaper-a"
+      },
+      {
+        "type": "iconpack",
+        "name": "Icons A",
+        "url": "https://url-to-icons-a"
       }
     ]
     },
     {
     "id": "Fourth Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/iPhone-Android-home-screen.png",
-    "title": "Second post!",
+    "title": "Milei La Tenes Adentro",
     "description": "Second post! on this one i'm promoting an app",
     "setupElements": [
       {
         "type": "widget",
-        "name": "Widget A",
-        "url": "https://url-to-widget-a"
+        "name": "Widget B",
+        "url": "https://url-to-widget-b"
       },
       {
         "type": "wallpaper",
-        "name": "Wallpaper X",
-        "url": "https://url-to-wallpaper-x"
+        "name": "Wallpaper B",
+        "url": "https://url-to-wallpaper-b"
+      },
+      {
+        "type": "iconpack",
+        "name": "Icons B",
+        "url": "https://url-to-icons-b"
       }
     ]
     }
