@@ -50,6 +50,29 @@
     ]
     },
     {
+    "id": "Circuit Board",
+    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/How-to-Fix-Unresponsive-Widgets-on-Android.png",
+    "title": "Circuit Board",
+    "description": "Second post! on this one i'm promoting an app",
+    "setupElements": [
+      {
+        "type": "widget",
+        "name": "Widget A",
+        "url": "https://url-to-widget-a"
+      },
+      {
+        "type": "wallpaper",
+        "name": "Wallpaper A",
+        "url": "https://url-to-wallpaper-a"
+      },
+      {
+        "type": "kustom",
+        "name": "Kustom Pack A",
+        "url": "https://url-to-icons-a"
+      }
+    ]
+    },
+    {
     "id": "Third Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/how-to-customize-home-screen-on-samsung-galaxy-phone-_1_.png",
     "title": "IDK Bro",
