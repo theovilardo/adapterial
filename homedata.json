@@ -51,24 +51,29 @@
     },
     {
     "id": "Circuit Board",
-    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/How-to-Fix-Unresponsive-Widgets-on-Android.png",
+    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/circuit%20board%20showdown.png",
     "title": "Circuit Board",
-    "description": "Second post! on this one i'm promoting an app",
+    "description": "Today's HS: Circuit Board",
     "setupElements": [
       {
-        "type": "widget",
-        "name": "Widget A",
-        "url": "https://url-to-widget-a"
+        "type": "kustom",
+        "name": "Nothing Widgets",
+        "url": "https://play.google.com/store/apps/details?id=nothing.at4u.kwgt"
       },
       {
         "type": "wallpaper",
-        "name": "Wallpaper A",
-        "url": "https://url-to-wallpaper-a"
+        "name": "AI Wallpaper",
+        "url": "https://play.google.com/store/apps/details?id=com.wallart.ai.wallpapers"
       },
       {
         "type": "kustom",
-        "name": "Kustom Pack A",
-        "url": "https://url-to-icons-a"
+        "name": "Nothink KWGT",
+        "url": "https://play.google.com/store/apps/details?id=com.theveloper.nothink.app"
+      },
+      {
+        "type": "iconpack",
+        "name": "C1rCuit",
+        "url": "https://mylovejewel.gumroad.com/l/c1rcuit"
       }
     ]
     },
@@ -91,7 +96,7 @@
       {
         "type": "iconpack",
         "name": "Icons A",
-        "url": "https://url-to-icons-a"
+        "url": "https://mylovejewel.gumroad.com/l/c1rcuit"
       }
     ]
     },
