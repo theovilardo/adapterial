@@ -2,6 +2,7 @@
     "id": "First Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/4686060.jpg",
     "title": "MonoChrome",
+    "author": "TheVeloper",
     "description": "Just the first post for testing the app",
     "setupElements": [
       {
@@ -30,6 +31,7 @@
     "id": "Second Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/How-to-Fix-Unresponsive-Widgets-on-Android.png",
     "title": "Blue Label Basile",
+    "author": "TheVeloper",
     "description": "Second post! on this one i'm promoting an app",
     "setupElements": [
       {
@@ -53,6 +55,7 @@
     "id": "Circuit Board",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/circuit%20board%20showdown.png",
     "title": "Circuit Board",
+    "author": "Dhilipan06",
     "description": "Today's HS: Circuit Board",
     "setupElements": [
       {
@@ -81,6 +84,7 @@
     "id": "Third Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/how-to-customize-home-screen-on-samsung-galaxy-phone-_1_.png",
     "title": "IDK Bro",
+    "author": "TheVeloper",
     "description": "Second post! on this one i'm promoting an app",
     "setupElements": [
       {
@@ -104,6 +108,7 @@
     "id": "Fourth Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/iPhone-Android-home-screen.png",
     "title": "Milei La Tenes Adentro",
+    "author": "TheVeloper",
     "description": "Second post! on this one i'm promoting an app",
     "setupElements": [
       {
