@@ -31,6 +31,33 @@
     ]
     },
     {
+    "id": "New Post",
+    "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/NewSetupShow.png",
+    "fullscreen": "https://raw.githubusercontent.com/theovilardo/adapterial/main/NewSetupFullscreen.png",
+    "fsdimens": "1080x2400",
+    "title": "New Setup!",
+    "author": "TheVeloper",
+    "authorUrl": "https://twitter.com/BradHosting",
+    "description": "Simple setup, made on Pixel Launcher and using android native widgets combined with OneUI 6's latest weather widget",
+    "setupElements": [
+      {
+        "type": "widget",
+        "name": "OneUI 6 Weather",
+        "url": "https://url-to-widget-a"
+      },
+      {
+        "type": "wallpaper",
+        "name": "Green Leaves by Wallfever",
+        "url": "https://url-to-wallpaper-a"
+      },
+      {
+        "type": "kustom",
+        "name": "Kustom Clock Pack",
+        "url": "https://url-to-icons-a"
+      }
+    ]
+    },
+    {
     "id": "Second Post",
     "image": "https://raw.githubusercontent.com/theovilardo/adapterial/main/How-to-Fix-Unresponsive-Widgets-on-Android.png",
     "fullscreen": "https://raw.githubusercontent.com/theovilardo/adapterial/main/4686060.jpg",
